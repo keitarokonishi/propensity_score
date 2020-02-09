@@ -8,6 +8,7 @@ https://github.com/keitarokonishi/vol3/blob/master/kato%26hoshino/q_data_x.csv
 
 ## Reference
 Many thanks to the author of this blog.  
+It helped me to understand propensity score.
 https://www.medi-08-data-06.work/entry/ps_score
 
 And the blog is written based on this book.  
